@@ -54,7 +54,7 @@ I love programming and learning new stuff!
 	</a>
   <a href="#">
   	  <img alt="TypeScript"
-     	     src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E" />
+     	     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   	</a>
   <a href="#">
           <img alt="HTML5"
@@ -164,7 +164,7 @@ I love programming and learning new stuff!
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/karimcambridge/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/EinfachnurMomo/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
     <img title="🔥 Streak stats" alt="Momo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EinfachnurMomo&theme=monokai-metallian&hide_border=true"/>
