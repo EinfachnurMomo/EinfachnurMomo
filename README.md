@@ -161,16 +161,16 @@ I love programming and learning new stuff!
 	     src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
     </a>
     <a href="#">
-	<img alt="Notepadplusplus"
-	     src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-    </a>
-    <a href="#">
 	<img alt="Rider"
 	     src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
     </a>
     <a href="#">
 	<img alt="WebStorm"
 	     src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
+    </a>
+    <a href="#">
+	<img alt="Notepadplusplus"
+	     src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
     </a>
 </p>
 
