@@ -14,7 +14,7 @@ I love programming and learning new stuff!
     </a>
     <a href="">
         <img alt="Discord"
-             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit">
+             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
     <a href="https://steamcommunity.com/id/nur_momo/">
         <img alt="Steam"
