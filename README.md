@@ -14,7 +14,7 @@ I love programming and learning new stuff!
     </a>
     <a href="">
         <img alt="Discord"
-             src="https://img.shields.io/badge/Norman6969-000000?style=for-the-badge&logo=discord&logoColor=white">
+             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit">
     </a>
     <a href="https://steamcommunity.com/id/nur_momo/">
         <img alt="Steam"
@@ -151,6 +151,26 @@ I love programming and learning new stuff!
     <a href="#">
         <img alt="Visual Studio Code"
              src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </a>
+    <a href="#">
+	<img alt="Visual Studio"
+	     src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    </a>
+    <a href="#">
+	<img alt="PHPStorm"
+	     src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
+    </a>
+    <a href="#">
+	<img alt="Notepadplusplus"
+	     src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+    </a>
+    <a href="#">
+	<img alt="Rider"
+	     src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
+    </a>
+    <a href="#">
+	<img alt="WebStorm"
+	     src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
     </a>
 </p>
 
