@@ -53,20 +53,12 @@ I love programming and learning new stuff!
              src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	</a>
   <a href="#">
-  	  <img alt="TypeScript"
-     	     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  	</a>
-  <a href="#">
           <img alt="HTML5"
              src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 	</a>
   <a href="#">
           <img alt="CSS3"
              src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-	</a>
-  <a href="#">
-          <img alt="JSON"
-             src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 	</a>
 </p>
 
@@ -106,21 +98,6 @@ I love programming and learning new stuff!
 	</a>
   <a href="#">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-	</a>
-  <a href="#">
-    <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-	</a>
-  <a href="#">
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-	</a>
-  <a href="#">
-    <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
-	</a>
-  <a href="#">
-    <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-	</a>
-  <a href="#">
-    <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/>
 	</a>
 </p>
 
